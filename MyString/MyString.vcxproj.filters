@@ -20,10 +20,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyString.cpp">
+    <ClCompile Include="testMyString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="testMyString.cpp">
+    <ClCompile Include="MyString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
